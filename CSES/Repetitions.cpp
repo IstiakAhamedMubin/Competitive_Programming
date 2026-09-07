@@ -17,5 +17,5 @@ int main () {
            
         }
     }
-    cout<< maximum;
+    cout<< maximum<<endl;
 }
