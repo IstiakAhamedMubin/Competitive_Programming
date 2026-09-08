@@ -13,6 +13,8 @@ int main () {
             width+=2;
         }
     }
+    
     cout<<width<<endl;
+
     return 0;
 }
